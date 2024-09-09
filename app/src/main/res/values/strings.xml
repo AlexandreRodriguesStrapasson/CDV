@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CDV</string>
+    <string name="abra_nova_tela">Abra nova tela</string>
+    <string name="numero_telefone">Numero telefone</string>
+</resources>
